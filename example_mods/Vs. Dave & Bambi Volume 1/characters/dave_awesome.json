@@ -1,0 +1,40 @@
+{
+  "name": "dave_awesome",
+  "image": "characters/dave/dave_awesome",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "dave_awesome",
+  "animations": [
+    {
+      "anim": "singLEFT",
+      "name": "'dave ' + left",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singDOWN",
+      "name": "'dave ' + down",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singUP",
+      "name": "'dave ' + up",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "'dave ' + right",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "idle",
+      "name": "dave idle",
+      "fps": 24,
+      "loop": false
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "TRISTAN",
+  "image": "characters/tristan/TRISTAN",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "tristan",
+  "animations": [
+    {
+      "anim": "singLEFT",
+      "name": "left + '0'",
+      "fps": 24,
+      "loop": false,
+      "offsets": [
+        -6,
+        -8
+      ]
+    },
+    {
+      "anim": "singDOWN",
+      "name": "down + '0'",
+      "fps": 24,
+      "loop": false,
+      "offsets": [
+        19,
+        -34
+      ]
+    },
+    {
+      "anim": "singUP",
+      "name": "up + '0'",
+      "fps": 24,
+      "loop": false,
+      "offsets": [
+        -2,
+        24
+      ]
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "right + '0'",
+      "fps": 24,
+      "loop": false,
+      "offsets": [
+        -38,
+        -1
+      ]
+    },
+    {
+      "anim": "sing' + anim.toUpperCase() + 'miss",
+      "name": "left + 'miss'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "sing' + anim.toUpperCase() + 'miss",
+      "name": "down + 'miss'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "sing' + anim.toUpperCase() + 'miss",
+      "name": "up + 'miss'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "sing' + anim.toUpperCase() + 'miss",
+      "name": "right + 'miss'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "idle",
+      "name": "idle",
+      "fps": 24,
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "hey",
+      "name": "hey",
+      "fps": 24,
+      "loop": false,
+      "offsets": [
+        17,
+        19
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Dave_insanity_lol",
+  "image": "characters/dave/Dave_insanity_lol",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "dave_insanity_lol",
+  "animations": [
+    {
+      "anim": "singLEFT",
+      "name": "left",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singDOWN",
+      "name": "down",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singUP",
+      "name": "up",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "right",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "idle",
+      "name": "idle",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "um",
+      "name": "event1",
+      "fps": 24,
+      "loop": true
+    },
+    {
+      "anim": "scared",
+      "name": "event20",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "scaredLoop",
+      "name": "event2loop",
+      "fps": 24,
+      "loop": true
+    }
+  ]
+}

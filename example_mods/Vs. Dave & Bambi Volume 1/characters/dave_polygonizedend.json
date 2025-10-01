@@ -1,0 +1,16 @@
+{
+  "name": "dave_polygonizedend",
+  "image": "characters/dave/dave_polygonizedend",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "dave_polygonizedend",
+  "animations": [
+    {
+      "anim": "event",
+      "name": "polygonevent",
+      "fps": 24,
+      "loop": false
+    }
+  ]
+}

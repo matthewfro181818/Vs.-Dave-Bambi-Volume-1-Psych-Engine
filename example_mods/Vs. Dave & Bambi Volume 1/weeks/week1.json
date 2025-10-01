@@ -1,0 +1,16 @@
+{
+    "storyName": "Vs Dave",
+    "weekName": "Week 1",
+    "weekBefore": "tutorial",
+    "weekBackground": "DaveHouse",
+    "weekCharacters": ["dave", "bf", "gf"],
+    "songs": [
+        ["House", "dave", [140, 140, 140]],
+        ["Insanity", "dave-annoyed", [146, 113, 253]],
+        ["Polygonized", "dave-angey", [146, 113, 253]]
+    ],
+    "startUnlocked": true,
+    "hideStoryMode": false,
+    "hideFreeplay": false,
+    "weekColor": "0x5561FF"
+}

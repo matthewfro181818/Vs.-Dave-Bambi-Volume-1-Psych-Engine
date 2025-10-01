@@ -1,0 +1,70 @@
+{
+  "name": "Splitathon_Bambi",
+  "image": "characters/splitathon/Splitathon_Bambi",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "splitathon_bambi",
+  "animations": [
+    {
+      "anim": "singLEFT",
+      "name": "'splitathon ' + left",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singDOWN",
+      "name": "'splitathon ' + down",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singUP",
+      "name": "'splitathon ' + up",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "'splitathon ' + right",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "idle",
+      "name": "splitathon idle0",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "idle-confused",
+      "name": "splitathon confused",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "idle-corn",
+      "name": "splitathon corn",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singSmash",
+      "name": "splitathon phone",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singLEFT-alt",
+      "name": "splitathon ALT L",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singRIGHT-alt",
+      "name": "splitathon ALT R",
+      "fps": 24,
+      "loop": false
+    }
+  ]
+}

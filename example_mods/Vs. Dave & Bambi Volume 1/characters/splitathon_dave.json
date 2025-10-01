@@ -1,0 +1,58 @@
+{
+  "name": "Splitathon_Dave",
+  "image": "characters/splitathon/Splitathon_Dave",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "splitathon_dave",
+  "animations": [
+    {
+      "anim": "idle",
+      "name": "idle",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "'sing'+i.toUpperCase()",
+      "name": "i",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "interrupted",
+      "name": "interrupted",
+      "fps": 24,
+      "loop": true
+    },
+    {
+      "anim": "toDisappointed",
+      "name": "interrupt2dissapoint",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "toAmused",
+      "name": "dissapoint2amuse",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "toHappy",
+      "name": "amuse2happy",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "idle-dissapointed",
+      "name": "dissapointedidle",
+      "fps": 24,
+      "loop": true
+    },
+    {
+      "anim": "'idle-'+i",
+      "name": "i+'idle'",
+      "fps": 24,
+      "loop": false
+    }
+  ]
+}

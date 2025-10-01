@@ -1,0 +1,28 @@
+{
+  "name": "bambi_haystack",
+  "image": "characters/shared/bambi_haystack",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "bambi_haystack",
+  "animations": [
+    {
+      "anim": "cheer",
+      "name": "hay_cheer",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "sad",
+      "name": "hay_miss",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "idle",
+      "name": "hay_idle",
+      "fps": 24,
+      "loop": false
+    }
+  ]
+}

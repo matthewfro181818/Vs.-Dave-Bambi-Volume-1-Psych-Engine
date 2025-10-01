@@ -1,0 +1,31 @@
+{
+    "storyName": "Extras Finale",
+    "difficulties": "",
+    "weekBackground": "jokeweek",
+    "hideFreeplay": false,
+    "weekBefore": "week6",
+    "freeplayColor": [146, 113, 253],
+    "startUnlocked": true,
+    "hideStoryMode": true,
+
+    "songs": [
+        ["Overdrive", "dave-awesome", [0, 150, 255]],
+        ["Supernovae", "bambi-joke", [0, 200, 0]],
+        ["Glitch", "bambi-joke", [0, 200, 0]],
+        ["Master", "bambi-joke", [0, 200, 0]],
+        ["Kabunga", "exbungo", [255, 0, 0]],
+        ["Roofs", "baldi", [0, 255, 0]],
+        ["Vs-dave-rap", "dave-cool", [50, 100, 255]],
+        ["Vs-dave-rap-2", "dave-cool", [50, 100, 255]]
+    ],
+
+    "weekCharacters": [
+        "dave-awesome",
+        "bf",
+        "gf"
+    ],
+
+    "weekName": "Week 7 Extras",
+    "hiddenUntilUnlocked": false,
+    "weekColor": "0x3399FF"
+}

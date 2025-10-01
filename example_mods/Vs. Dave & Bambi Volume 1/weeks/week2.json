@@ -1,0 +1,16 @@
+{
+    "storyName": "Vs Bambi",
+    "weekName": "Week 2",
+    "weekBefore": "week1",
+    "weekBackground": "bamboi",
+    "weekCharacters": ["bambi", "bf", "gf"],
+    "songs": [
+        ["Blocked", "bambi-new", [0, 255, 0]],
+        ["Corn Theft", "bambi-new", [0, 255, 0]],
+        ["Maze", "bambi-new", [0, 255, 0]]
+    ],
+    "startUnlocked": true,
+    "hideStoryMode": false,
+    "hideFreeplay": false,
+    "weekColor": "0x00FF00"
+}

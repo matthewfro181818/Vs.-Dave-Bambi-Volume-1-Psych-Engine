@@ -1,0 +1,40 @@
+{
+  "name": "tristan_backseat",
+  "image": "characters/backseat/tristan_backseat",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "tristan_backseat",
+  "animations": [
+    {
+      "anim": "'sing'+i.toUpperCase()",
+      "name": "i+'tristan'+'0'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "scared",
+      "name": "tristanscared1",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "scared-idle",
+      "name": "tristanscaredidle1",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "scared2",
+      "name": "tristanscared2",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "hey",
+      "name": "heytristan",
+      "fps": 24,
+      "loop": false
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "tristan_opponent",
+  "image": "characters/tristan/tristan_opponent",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "tristan_opponent",
+  "animations": [
+    {
+      "anim": "singLEFT",
+      "name": "left + '0'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singDOWN",
+      "name": "down + '0'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singUP",
+      "name": "up + '0'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "right + '0'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "idle",
+      "name": "idle",
+      "fps": 24,
+      "loop": false
+    }
+  ]
+}

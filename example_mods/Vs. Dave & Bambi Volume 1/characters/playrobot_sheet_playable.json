@@ -1,0 +1,40 @@
+{
+  "name": "playrobot_sheet_playable",
+  "image": "characters/playrobot/playrobot_sheet_playable",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "playrobot_sheet_playable",
+  "animations": [
+    {
+      "anim": "danceLeft",
+      "name": "Idle1",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "danceRight",
+      "name": "idle2",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "hey",
+      "name": "hey",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "'sing'+i.toUpperCase()",
+      "name": "i+'0'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "sing' + i.toUpperCase() + 'miss",
+      "name": "i+'miss'",
+      "fps": 24,
+      "loop": false
+    }
+  ]
+}

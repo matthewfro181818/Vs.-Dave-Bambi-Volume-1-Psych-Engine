@@ -1,0 +1,40 @@
+{
+  "name": "alex",
+  "image": "characters/shared/alex",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "alex",
+  "animations": [
+    {
+      "anim": "idle",
+      "name": "idle",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singDOWN",
+      "name": "idle",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singUP",
+      "name": "idle",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singLEFT",
+      "name": "idle",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "idle",
+      "fps": 24,
+      "loop": false
+    }
+  ]
+}

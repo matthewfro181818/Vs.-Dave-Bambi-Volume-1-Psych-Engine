@@ -1,0 +1,46 @@
+{
+  "name": "Cool_BF",
+  "image": "characters/rapBattle/Cool_BF",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "cool_bf",
+  "animations": [
+    {
+      "anim": "singLEFT",
+      "name": "'BF' + Left",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singDOWN",
+      "name": "'BF' + Down",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singUP",
+      "name": "'BF' + Up",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "'BF' + Right",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "sing' + anim.toUpperCase() + 'miss",
+      "name": "Dead",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "idle",
+      "name": "BFIdle",
+      "fps": 24,
+      "loop": false
+    }
+  ]
+}

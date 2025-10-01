@@ -1,0 +1,60 @@
+{
+  "name": "exbungo",
+  "image": "characters/exbungo",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "exbungo",
+  "animations": [
+    {
+      "anim": "idle",
+      "name": "idle",
+      "fps": 24,
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "singUP",
+      "name": "up",
+      "fps": 24,
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "singLEFT",
+      "name": "left",
+      "fps": 24,
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "right",
+      "fps": 24,
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "singDOWN",
+      "name": "down",
+      "fps": 24,
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ]
+    }
+  ]
+}

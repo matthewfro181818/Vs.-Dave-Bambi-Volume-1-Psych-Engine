@@ -1,0 +1,14 @@
+{
+  "storyName": "The Finale",
+  "weekName": "Week 3",
+  "weekBefore": "week2",
+  "weekBackground": "splitathon",
+  "weekCharacters": ["the-duo", "bf", "gf"],
+  "songs": [
+      ["Splitathon", "the-duo", [0, 255, 255]]
+  ],
+  "startUnlocked": true,
+  "hideStoryMode": false,
+  "hideFreeplay": false,
+  "weekColor": "0x00FFFF"
+}

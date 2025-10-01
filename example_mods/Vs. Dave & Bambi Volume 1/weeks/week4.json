@@ -1,0 +1,33 @@
+{
+	"storyName": "Bambi's Corn Festival!",
+	"difficulties": "",
+	"weekBackground": "festival",
+	"hideFreeplay": true,
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"???",
+			"face",
+			[
+				140,
+				140,
+				140
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekColor": "0x770077",
+	"hiddenUntilUnlocked": false,
+	"weekName": "Corn Festival"
+}

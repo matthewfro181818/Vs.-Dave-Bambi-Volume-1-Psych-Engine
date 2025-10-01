@@ -1,0 +1,28 @@
+{
+  "name": "dave_boombox",
+  "image": "characters/shared/dave_boombox",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "dave_boombox",
+  "animations": [
+    {
+      "anim": "cheer",
+      "name": "boomboxcheer",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "sad",
+      "name": "boomboxmiss",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "idle",
+      "name": "boomboxidle",
+      "fps": 24,
+      "loop": false
+    }
+  ]
+}

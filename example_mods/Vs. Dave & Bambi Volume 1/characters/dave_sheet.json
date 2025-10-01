@@ -1,0 +1,70 @@
+{
+  "name": "dave_sheet",
+  "image": "characters/dave/dave_sheet",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "dave_sheet",
+  "animations": [
+    {
+      "anim": "singLEFT",
+      "name": "left + '0'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singDOWN",
+      "name": "down + '0'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singUP",
+      "name": "up + '0'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "right + '0'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "sing' + anim.toUpperCase() + 'miss",
+      "name": "left + 'miss0'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "sing' + anim.toUpperCase() + 'miss",
+      "name": "down + 'miss0'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "sing' + anim.toUpperCase() + 'miss",
+      "name": "up + 'miss0'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "sing' + anim.toUpperCase() + 'miss",
+      "name": "right + 'miss0'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "idle",
+      "name": "idle",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "hey",
+      "name": "hey",
+      "fps": 24,
+      "loop": false
+    }
+  ]
+}

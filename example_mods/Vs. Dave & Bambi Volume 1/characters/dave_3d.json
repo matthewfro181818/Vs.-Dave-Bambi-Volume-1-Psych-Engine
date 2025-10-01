@@ -1,0 +1,40 @@
+{
+  "name": "Dave_3D",
+  "image": "characters/dave/Dave_3D",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "dave_3d",
+  "animations": [
+    {
+      "anim": "singLEFT",
+      "name": "left + ' instance 1'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singDOWN",
+      "name": "down + ' instance 1'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singUP",
+      "name": "up + ' instance 1'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "right + ' instance 1'",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "idle",
+      "name": "idle instance 1",
+      "fps": 24,
+      "loop": false
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "name": "BOYFRIEND",
+  "image": "characters/shared/BOYFRIEND",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "boyfriend",
+  "animations": [
+    {
+      "anim": "singLEFT",
+      "name": "BF NOTE ' + anim.toUpperCase() + '0",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singDOWN",
+      "name": "BF NOTE ' + anim.toUpperCase() + '0",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singUP",
+      "name": "BF NOTE ' + anim.toUpperCase() + '0",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "BF NOTE ' + anim.toUpperCase() + '0",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "sing' + anim.toUpperCase() + 'miss",
+      "name": "BF NOTE ' + anim.toUpperCase() + ' MISS",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "idle",
+      "name": "BF idle dance",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "hey",
+      "name": "BF HEY",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "dodge",
+      "name": "boyfriend dodge",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "scared",
+      "name": "BF idle shaking",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "hit",
+      "name": "BF hit",
+      "fps": 24,
+      "loop": false
+    }
+  ]
+}

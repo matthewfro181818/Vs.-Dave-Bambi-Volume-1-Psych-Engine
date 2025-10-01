@@ -1,0 +1,52 @@
+{
+  "name": "bfPixel",
+  "image": "characters/shared/bfPixel",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "bfpixel",
+  "animations": [
+    {
+      "anim": "singLEFT",
+      "name": "BF ' + anim.toUpperCase() + ' NOTE",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singDOWN",
+      "name": "BF ' + anim.toUpperCase() + ' NOTE",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singUP",
+      "name": "BF ' + anim.toUpperCase() + ' NOTE",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "BF ' + anim.toUpperCase() + ' NOTE",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "sing' + anim.toUpperCase() + 'miss",
+      "name": "BF ' + anim.toUpperCase() + ' MISS",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "idle",
+      "name": "BF IDLE",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "hey",
+      "name": "BF HEY",
+      "fps": 24,
+      "loop": false
+    }
+  ]
+}

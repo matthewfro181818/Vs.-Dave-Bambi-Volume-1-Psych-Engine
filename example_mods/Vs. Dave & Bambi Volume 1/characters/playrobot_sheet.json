@@ -1,0 +1,40 @@
+{
+  "name": "playrobot_sheet",
+  "image": "characters/playrobot/playrobot_sheet",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "playrobot_sheet",
+  "animations": [
+    {
+      "anim": "danceLeft",
+      "name": "idle2",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "danceRight",
+      "name": "Idle1",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "game",
+      "name": "playagame",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "confused",
+      "name": "confusedloop",
+      "fps": 24,
+      "loop": true
+    },
+    {
+      "anim": "'sing'+i.toUpperCase()",
+      "name": "i+'0'",
+      "fps": 24,
+      "loop": false
+    }
+  ]
+}

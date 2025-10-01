@@ -1,0 +1,14 @@
+{
+    "storyName": "Tutorial",
+    "weekName": "Tutorial",
+    "weekBefore": "",
+    "weekBackground": "stage",
+    "weekCharacters": ["dave", "bf", "gf"],
+    "songs": [
+        ["Warmup", "dave", [140, 140, 140]]
+    ],
+    "startUnlocked": true,
+    "hideStoryMode": false,
+    "hideFreeplay": false,
+    "weekColor": "0x8888FF"
+}

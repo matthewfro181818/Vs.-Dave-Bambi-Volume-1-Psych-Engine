@@ -1,0 +1,94 @@
+{
+  "name": "bambiRemake",
+  "image": "characters/bambi/bambiRemake",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "bambiremake",
+  "animations": [
+    {
+      "anim": "singLEFT",
+      "name": "'bambi ' + left",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singDOWN",
+      "name": "'bambi ' + down",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singUP",
+      "name": "'bambi ' + up",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "'bambi ' + right",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "sing' + anim.toUpperCase() + 'miss",
+      "name": "'miss ' + left",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "sing' + anim.toUpperCase() + 'miss",
+      "name": "'miss ' + down",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "sing' + anim.toUpperCase() + 'miss",
+      "name": "'miss ' + up",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "sing' + anim.toUpperCase() + 'miss",
+      "name": "'miss ' + right",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "sing' + anim.toUpperCase() + '-alt",
+      "name": "'bambi alt ' + left",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "sing' + anim.toUpperCase() + '-alt",
+      "name": "'bambi alt ' + right",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "idle",
+      "name": "bambi idle",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "hey",
+      "name": "bambi look",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singSmash",
+      "name": "bambi phone",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singThrow",
+      "name": "bambi throw",
+      "fps": 24,
+      "loop": false
+    }
+  ]
+}

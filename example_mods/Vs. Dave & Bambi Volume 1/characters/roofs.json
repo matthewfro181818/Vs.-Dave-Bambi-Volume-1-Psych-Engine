@@ -1,0 +1,46 @@
+{
+  "name": "ROOFS",
+  "image": "characters/roofs/ROOFS",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "roofs",
+  "animations": [
+    {
+      "anim": "singLEFT",
+      "name": "left",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singDOWN",
+      "name": "down",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singUP",
+      "name": "up",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "right",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "idle",
+      "name": "idle",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "talk",
+      "name": "thingylol",
+      "fps": 24,
+      "loop": false
+    }
+  ]
+}

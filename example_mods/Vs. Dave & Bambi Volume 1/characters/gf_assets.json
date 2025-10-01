@@ -1,0 +1,16 @@
+{
+  "name": "GF_assets",
+  "image": "characters/shared/GF_assets",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "gf_assets",
+  "animations": [
+    {
+      "anim": "cheer",
+      "name": "GF Cheer",
+      "fps": 24,
+      "loop": false
+    }
+  ]
+}

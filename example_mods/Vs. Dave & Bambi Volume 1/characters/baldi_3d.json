@@ -1,0 +1,46 @@
+{
+  "name": "baldi_3d",
+  "image": "characters/roofs/baldi_3d",
+  "scale": 1.0,
+  "no_antialiasing": false,
+  "flip_x": false,
+  "healthIcon": "baldi_3d",
+  "animations": [
+    {
+      "anim": "singLEFT",
+      "name": "left",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singDOWN",
+      "name": "down",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singUP",
+      "name": "up",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "right",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "idle",
+      "name": "idle",
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "talk",
+      "name": "talk",
+      "fps": 24,
+      "loop": false
+    }
+  ]
+}

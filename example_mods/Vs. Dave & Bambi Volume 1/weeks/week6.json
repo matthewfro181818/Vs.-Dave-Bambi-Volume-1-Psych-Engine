@@ -1,0 +1,16 @@
+{
+  "songs": [
+    ["Backseat", "playrobot-tristan", [255, 200, 0]],
+    ["bonus-song", "dave", [140, 140, 140]],
+    ["mealie", "bambi-loser", [0, 200, 0]],
+    ["adventure", "tristan", [255, 0, 0]],
+    ["bot-trot", "playrobot", [255, 200, 0]]
+  ],
+  "weekName": "Extras",
+  "weekCharacters": ["playrobot-tristan", "bf", "gf"],
+  "startUnlocked": true,
+  "hideStoryMode": true,
+  "weekBackground": "extras",
+  "storyName": "Extras",
+  "weekColor": "0xFFD200"
+}

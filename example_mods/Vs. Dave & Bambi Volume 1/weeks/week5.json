@@ -1,0 +1,17 @@
+{
+    "storyName": "Bambi's Master Week!",
+    "weekName": "Week 5",
+    "weekBefore": "week4",
+    "weekBackground": "masterweek",
+    "weekCharacters": ["bambi-joke", "bf", "gf"],
+    "songs": [
+        ["Supernovae", "bambi-joke", [0, 200, 0]],
+        ["Glitch", "bambi-joke", [0, 200, 0]],
+        ["Master", "bambi-joke", [0, 200, 0]]
+    ],
+    "startUnlocked": false,
+    "hideStoryMode": false,
+    "hideFreeplay": false,
+    "weekColor": "0xFF0000"
+}
+
